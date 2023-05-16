@@ -1,0 +1,24 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 13px;
+  padding: 30px;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: "Cassia", serif;
+  font-style: italic;
+  text-align: center;
+}
+
+/*Set the fill-opacity to 0.60, stroke colour to #333, and stroke-width to 0.3.*/
+.mark {
+  fill-opacity: 0.6;
+  stroke: #333;
+  stroke-width: 0.3;
+}
+
